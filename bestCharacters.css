@@ -1,0 +1,46 @@
+
+h1{
+    margin: 30px auto 0;
+    padding: 10px 25px 10px 25px;
+    background-color: #6666FF;
+    color: #F0F8FF; 
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid #2E1263;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 4px;
+    outline: none;
+}
+
+p{
+    margin: 30px auto 0;
+    padding: 10px 25px 10px 25px;
+    background-color: #6666FF;
+    color: #F0F8FF; 
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid #2E1263;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 4px;
+    outline: none;
+}
+
+   
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+}
+
+
+
+   
+body {
+    background-color: #A8A8A8;
+    color: #9455f4;
+    font-family: "Source Code Pro";
+    font-weight: 200;
+}
